@@ -1,3 +1,5 @@
+![Alt text]([URL_to_image](https://github.com/Dhruvbam/Ticket-Booking-System/blob/main/img.jpg))
+
 # Ticket Booking System
 
 ## Project Description
