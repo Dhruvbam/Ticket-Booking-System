@@ -14,6 +14,7 @@ Ensure Java is installed on your machine.
 2. Navigate to the src directory.
 3. Compile the Java files with `javac filename.java`.
 4. Run the program with `java MainClass`.
+
 To run this project, run the UserInterface class in Eclipse IDE using JRE 17.0.8 on Windows. 
 
 ## Usage
