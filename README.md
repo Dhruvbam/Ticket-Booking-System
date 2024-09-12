@@ -1,11 +1,11 @@
-# Online Ticket Booking System
+# Ticket Booking System
 ![Alt text](https://github.com/Dhruvbam/Ticket-Booking-System/blob/main/img.jpg)
 
 ## About
-The **Online Ticket Booking System** was developed as a final project for the Object-Oriented Programming class (CS 2365). The primary objective was to demonstrate proficiency in Java and object-oriented programming principles. This system allows users to book tickets for various events, including concerts, sports events, and theater shows. It features functionalities for event selection, seat booking, and user interface interactions.
+The **Ticket Booking System** was developed as a final project for the Object-Oriented Programming class (CS 2365). The primary objective was to demonstrate proficiency in Java and object-oriented programming principles. This system allows users to book tickets for various events, including concerts, sports events, and theater shows. It features functionalities for event selection, seat booking, and user interface interactions.
 
 ## Description
-The **Online Ticket Booking System** is a Java-based application that provides an intuitive platform for users to book tickets for different types of events. The system includes modules for managing events, booking seats, and handling user interactions through a graphical user interface (GUI).
+The **Ticket Booking System** is a Java-based application that provides an intuitive platform for users to book tickets for different types of events. The system includes modules for managing events, booking seats, and handling user interactions through a graphical user interface (GUI).
 
 ### Built With
 - <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" width="36" height="36" alt="Java" /></a> **Java**: The core programming language used for developing the system.
@@ -30,4 +30,4 @@ The **Online Ticket Booking System** is a Java-based application that provides a
 This project was developed individually as a demonstration of the knowledge and skills acquired in the Object-Oriented Programming course.
 
 ### Learning Outcome
-Through the development of the **Online Ticket Booking System**, I gained hands-on experience with Java programming, particularly in applying object-oriented principles to build a fully functional application. The project also enhanced my understanding of user interface design using Java Swing and the intricacies of managing event data.
+Through the development of the **Ticket Booking System**, I gained hands-on experience with Java programming, particularly in applying object-oriented principles to build a fully functional application. The project also enhanced my understanding of user interface design using Java Swing and the intricacies of managing event data.
