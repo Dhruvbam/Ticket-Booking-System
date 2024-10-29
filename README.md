@@ -1,5 +1,5 @@
 # Ticket Booking System
-![Alt text](https://github.com/Dhruvbam/Ticket-Booking-System/blob/main/tbs.jpg)
+![Alt text](https://github.com/Dhruvbam/Ticket-Booking-System/blob/main/tbs.png)
 
 ## About
 The **Ticket Booking System** was developed as a final project for the Object-Oriented Programming class (CS 2365). The primary objective was to demonstrate proficiency in Java and object-oriented programming principles. This system allows users to book tickets for various events, including concerts, sports events, and theater shows. It features functionalities for event selection, seat booking, and user interface interactions.
