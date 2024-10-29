@@ -2,10 +2,10 @@
 ![Alt text](https://github.com/Dhruvbam/Ticket-Booking-System/blob/main/tbs.png)
 
 ## About
-The **Ticket Booking System** was developed as a final project for the Object-Oriented Programming class (CS 2365). The primary objective was to demonstrate proficiency in Java and object-oriented programming principles. This system allows users to book tickets for various events, including concerts, sports events, and theater shows. It features functionalities for event selection, seat booking, and user interface interactions.
+The Ticket Booking System is a Java-based application developed as a final project for the Object-Oriented Programming (CS 2365) class. Designed to allow users to book tickets for events like concerts, sports, and theater, this system highlights the use of Java and object-oriented principles to create an interactive, user-friendly experience. It provides an intuitive graphical interface for event selection, seat booking, and ticket management, utilizing Java Swing to deliver a seamless user experience.
 
 ## Description
-The **Ticket Booking System** is a Java-based application that provides an intuitive platform for users to book tickets for different types of events. The system includes modules for managing events, booking seats, and handling user interactions through a graphical user interface (GUI).
+The Ticket Booking System provides a console application experience for booking tickets across various events. Built with Java and Swing for the graphical user interface (GUI), it offers modules for event selection, seat booking, and user interaction. Through encapsulation, inheritance, and polymorphism, the system models different event types (Concert, Sports, Theater), each with unique booking options. The interface is designed to streamline the booking process, making it easy for users to navigate through events and finalize ticket purchases efficiently.
 
 ### Built With
 - <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" width="36" height="36" alt="Java" /></a> **Java**: The core programming language used for developing the system.
@@ -30,4 +30,4 @@ The **Ticket Booking System** is a Java-based application that provides an intui
 This project was developed individually as a demonstration of the knowledge and skills acquired in the Object-Oriented Programming course.
 
 ### Learning Outcome
-Through the development of the **Ticket Booking System**, I gained hands-on experience with Java programming, particularly in applying object-oriented principles to build a fully functional application. The project also enhanced my understanding of user interface design using Java Swing and the intricacies of managing event data.
+Developing the Ticket Booking System reinforced my skills in Java and object-oriented design. I gained experience in applying OOP concepts to create a functional booking system and honed my understanding of user interface design with Java Swing. Additionally, this project taught me practical skills in managing and structuring event data and optimizing a user-friendly booking workflow.
