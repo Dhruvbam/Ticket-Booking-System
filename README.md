@@ -5,7 +5,7 @@ The Ticket Booking System is a fully interactive, Java based application develop
 
 ## Features & Technical Details
 
-- **Object-Oriented Event Modeling:** Utilizes encapsulation, inheritance, and polymorphism to represent different ticket types—Concert, Sports, and Theater—with unique booking options and pricing logic.
+- **Object-Oriented Event Modeling:** Utilizes encapsulation, inheritance, and polymorphism to represent different ticket types; Concert, Sports, and Theater, with unique booking options and pricing logic.
 - **User-Friendly Interface:** Java Swing powers a graphical interface for easy selection, booking, and ticket management. Console and GUI workflows are both supported.
 - **Event Modules:** Modular code structure with classes for Concert, Sports, Theater, and Ticket, streamlining event handling, pricing adjustments, and seat tracking.
 - **Interactive Booking Workflow:** Step-by-step user prompts for ticket type, seat, venue, and booking detail with error-checking for valid inputs.
